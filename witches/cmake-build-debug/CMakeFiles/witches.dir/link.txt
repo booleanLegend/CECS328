@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\witches.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\witches.dir/objects.a @CMakeFiles\witches.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\witches.dir/objects.a -Wl,--no-whole-archive -o witches.exe -Wl,--out-implib,libwitches.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\witches.dir\linklibs.rsp
